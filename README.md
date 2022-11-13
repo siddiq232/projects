@@ -1,0 +1,2 @@
+# projects
+static_page
